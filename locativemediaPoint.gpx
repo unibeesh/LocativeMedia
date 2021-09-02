@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="37.872146" lon="-122.26123">
+  <time>2021-09-02T18:40:41Z</time>
+  <name>Tree</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.872431" lon="-122.26212">
+  <time>2021-09-02T18:47:31Z</time>
+  <name>Blackberry</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.8745" lon="-122.26225">
+  <time>2021-09-02T18:52:18Z</time>
+  <name>University House</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+</gpx>
